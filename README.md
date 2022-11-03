@@ -1,2 +1,1 @@
-#Kevin Beltran
-php developer 🧐
+<?php $developer = "JR 🧐";  ?>
