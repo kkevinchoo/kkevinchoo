@@ -1,1 +1,1 @@
-<?php $developer = "JR 🧐";  ?>
+developer = "JR 🧐";
