@@ -1,1 +1,1 @@
-developer = "JR 🧐";
+$developer = "JR 🧐";
